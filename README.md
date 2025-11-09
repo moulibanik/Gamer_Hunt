@@ -37,3 +37,29 @@ The website is designed for the **SNU Gaming League** to help identify students 
 ---
 
 ## 📁 File Structure
+---
+
+## 🧠 How It Works
+1. User selects genre, platform, and whether they watch e-sports  
+2. When clicking **Predict**, the website checks:
+   - If user watches e-sports and prefers PC or Shooter games → **Regular Gamer**
+   - Otherwise → **Casual Gamer**
+3. The result is shown instantly on the screen.
+
+---
+
+## 💡 Example Output
+> 🎮 Regular Gamer Detected!  
+> 🧩 Casual Gamer  
+
+---
+
+## 🏆 Project Goal
+To identify regular gamers among students and help in forming stronger e-sports teams at SNU.
+
+---
+
+## 👩‍💻 Created By
+**Mouli Banik**  
+B.Tech CSE, SNU  
+2025
